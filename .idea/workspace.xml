@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dab0af9-92fc-4b0c-bbbf-cfa95ab094b2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/1217/004.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1217/005.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1217/006.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1217/007.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1217/008.go" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,13 +56,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="007.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="007.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1217/007.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="008.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1217/008.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding>
+                <element signature="e#14#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,6 +141,7 @@
         <option value="$PROJECT_DIR$/1217/005.go" />
         <option value="$PROJECT_DIR$/1217/006.go" />
         <option value="$PROJECT_DIR$/1217/007.go" />
+        <option value="$PROJECT_DIR$/1217/008.go" />
       </list>
     </option>
   </component>
@@ -218,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 007.go">
+  <component name="RunManager" selected="Go Build.go build 008.go">
     <configuration name="go build 004.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -251,28 +261,28 @@
       <filePath value="$PROJECT_DIR$/1217/007.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build hello.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go build 008.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/1203/hello.go" />
+      <filePath value="$PROJECT_DIR$/1217/008.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build hello.go (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build 004.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build 005.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build 006.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build 007.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build 004.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build 005.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build 006.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build 007.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build 008.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build 007.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build 006.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build 005.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build 004.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build hello.go (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build 008.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build 007.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build 006.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build 005.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build 004.go" />
       </list>
     </recent_temporary>
   </component>
@@ -288,11 +298,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -395,6 +405,16 @@
           <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1217/008.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
